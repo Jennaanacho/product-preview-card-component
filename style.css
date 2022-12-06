@@ -45,6 +45,7 @@ main>div.text-content {
     padding: 1.5rem;
     width: 50%;
     height: 100%;
+    display: grid;
 }
 
 h1 {
